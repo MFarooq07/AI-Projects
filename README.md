@@ -1,5 +1,5 @@
 # What's in the folders above
-AI projects implemented using Python ```3.10.6```. The class Artificial Intelligence (CSC-320) was taught by TJ Schlueter from Sep-Nov 2023 at [Union College]([url](https://www.union.edu/)).
+AI projects implemented using Python ```3.10.6```. The class Artificial Intelligence (CSC-320) was taught by TJ Schlueter from Sep-Nov 2023 at [Union College](https://www.union.edu/).
 # Have been uploaded 
 1. Chatbot ELIZA
 2. Human and borg problem (very similar to the Missionaries and Cannibals
