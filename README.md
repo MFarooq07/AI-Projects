@@ -2,6 +2,7 @@
 AI projects implemented using Python ```3.10.6```. The class Artificial Intelligence (CSC-320) was taught by TJ Schlueter from Sep-Nov 2023 at [Union College](https://www.union.edu/). Some projects are self motivated ones as well which are inspired by CS50 AI course by Harvard.
 # Have been uploaded 
 1. ## Chatbot ELIZA
+``` mermaid
 flowchart TD
     A[User Input Text] --> B[Clean & Tokenize Input String]
     B --> C{Match Keywords/Patterns?}
@@ -12,7 +13,8 @@ flowchart TD
     E --> H[Output Response to User]
     G --> H
     H --> A
-    
+end
+```
 2. Human and borg problem (very similar to the Missionaries and Cannibals
 4. A* Informed search algorithm to solve a 9 cell puzzle where one cell is blank
 5. Neural Networks
